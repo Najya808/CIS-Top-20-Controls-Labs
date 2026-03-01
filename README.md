@@ -6,3 +6,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
   - [Lab 02 — Software Asset Inventory](Software-Asset-Inventory.md)  
   What I learned: how to inventory installed software on Windows and Linux using native command-line tools, export data for structured analysis, and identify unknown or end-of-life applications that may introduce security risks.
+
+- [Lab 03 — Basic Vulnerability Scanning](Basic-Vulnerability-Scanning.md)  
+  What I learned: how to install and configure OpenVAS, perform a controlled vulnerability scan, analyze high and critical findings, and document remediation steps aligned with continuous vulnerability management practices.
