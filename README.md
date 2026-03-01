@@ -9,3 +9,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
 - [Lab 03 — Basic Vulnerability Scanning](Basic-Vulnerability-Scanning.md)  
   What I learned: how to install and configure OpenVAS, perform a controlled vulnerability scan, analyze high and critical findings, and document remediation steps aligned with continuous vulnerability management practices.
+
+- [Lab 04 — Controlled Use of Administrative Privileges](Controlled-Use-of-Administrative-Privileges.md)  
+  What I learned: how to audit administrative accounts on a Linux system, enforce the principle of least privilege by removing unnecessary sudo access, document security changes, and verify system stability after privilege modifications.
