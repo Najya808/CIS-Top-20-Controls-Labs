@@ -24,3 +24,9 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
 - [Lab 08 — Malware Defenses](Lab_08_Malware_Defenses.md)  
   What I learned: how to install and configure anti-malware software, update virus signatures, perform system scans, and analyze quarantine logs to evaluate malware detection effectiveness.
+
+- [Lab 09 — Limiting Network Ports, Protocols & Services](Lab_09_Limiting_Network_Ports_Protocols_and_Services.md)  
+  What I learned: how to identify open network ports using netstat/ss, restrict insecure services like Telnet via firewall rules, and validate system hardening through port re-verification.
+  
+- [Lab 10 — Data Recovery Capabilities](Lab_10_Data_Recovery_Capabilities.md)  
+  What I learned: how to perform manual and automated backups using tar and cron, restore archived data, and verify integrity using diff to ensure disaster recovery readiness.
