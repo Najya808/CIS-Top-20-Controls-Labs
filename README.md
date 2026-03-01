@@ -15,3 +15,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
 - [Lab 05 — Secure Configuration for Endpoints](Secure-Configuration-for-Endpoints.md)  
   What I learned: how to apply security benchmarks to Windows and Linux systems, harden endpoints by disabling unnecessary services, enforce strong password policies, and document configuration changes aligned with secure configuration best practices.
+
+- [Lab 06 — Monitoring & Analysis of Audit Logs](Lab_06_Monitoring_Analysis_of_Audit_Logs.md)  
+  What I learned: how to enable verbose audit logging on Windows and Linux systems, collect and centralize security logs, and analyze authentication events to detect suspicious activities such as brute-force login attempts and logon failures.
