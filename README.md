@@ -12,3 +12,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
 - [Lab 04 — Controlled Use of Administrative Privileges](Controlled-Use-of-Administrative-Privileges.md)  
   What I learned: how to audit administrative accounts on a Linux system, enforce the principle of least privilege by removing unnecessary sudo access, document security changes, and verify system stability after privilege modifications.
+
+- [Lab 05 — Secure Configuration for Endpoints](Secure-Configuration-for-Endpoints.md)  
+  What I learned: how to apply security benchmarks to Windows and Linux systems, harden endpoints by disabling unnecessary services, enforce strong password policies, and document configuration changes aligned with secure configuration best practices.
