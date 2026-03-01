@@ -21,3 +21,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
 - [Lab 07 — Securing Email & Web Browsers](Lab_07_Securing_Email_and_Web_Browsers.md)  
   What I learned: how to configure phishing protection in an email client, install browser security extensions like script and ad blockers, and harden browser privacy settings to reduce exposure to web-based threats.
+
+- [Lab 08 — Malware Defenses](Lab_08_Malware_Defenses.md)  
+  What I learned: how to install and configure anti-malware software, update virus signatures, perform system scans, and analyze quarantine logs to evaluate malware detection effectiveness.
