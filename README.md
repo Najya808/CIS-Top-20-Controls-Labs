@@ -30,3 +30,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
   
 - [Lab 10 — Data Recovery Capabilities](Lab_10_Data_Recovery_Capabilities.md)  
   What I learned: how to perform manual and automated backups using tar and cron, restore archived data, and verify integrity using diff to ensure disaster recovery readiness.
+
+- [Lab 11 — SSH Hardening & Secure Remote Access](Lab_11_SSH_Hardening_and_Secure_Access.md)  
+  What I learned: how to secure SSH by disabling root and password-based login, implementing key-based authentication, and reducing brute-force attack risks through configuration hardening.
