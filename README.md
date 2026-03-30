@@ -4,7 +4,7 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 - [Lab 01 — Hardware Asset Inventory](Hardware-Asset-Inventory.md)  
   What I learned: how to create and maintain a structured hardware asset inventory aligned with CIS Control 1, assign ownership to enterprise devices, and validate asset visibility using Nmap network scanning to detect authorized and unauthorized devices.
 
-  - [Lab 02 — Software Asset Inventory](Software-Asset-Inventory.md)  
+- [Lab 02 — Software Asset Inventory](Software-Asset-Inventory.md)  
   What I learned: how to inventory installed software on Windows and Linux using native command-line tools, export data for structured analysis, and identify unknown or end-of-life applications that may introduce security risks.
 
 - [Lab 03 — Basic Vulnerability Scanning](Basic-Vulnerability-Scanning.md)  
@@ -33,3 +33,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
 - [Lab 11 — SSH Hardening & Secure Remote Access](Lab_11_SSH_Hardening_and_Secure_Access.md)  
   What I learned: how to secure SSH by disabling root and password-based login, implementing key-based authentication, and reducing brute-force attack risks through configuration hardening.
+
+- [Lab 12 — Boundary Defense](Lab_12_Boundary_Defense.md)  
+  What I learned: how to document network boundaries, configure firewall rules using UFW, and test defenses by simulating unauthorized access attempts.
