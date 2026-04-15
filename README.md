@@ -63,3 +63,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
 - [Lab 21 — Patch Management Basics](Lab_21_Patch_Management_Basics.md)  
   What I learned: how patch management works across Windows and Linux systems, how to check for available updates using Windows Update, apt, and yum, and how to apply, document, and verify system updates while ensuring system stability after reboot.
+
+- [Lab 22 — Secure Cloud Instance (Basic)](Lab_22_Secure_Cloud_Instance_Basic.md)  
+  What I learned: how to deploy and secure a cloud virtual machine, configure firewall rules to allow only essential ports (22, 80, 443), enable Multi-Factor Authentication for account protection, and document security configurations for auditing and compliance.
