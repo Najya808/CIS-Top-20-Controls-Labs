@@ -54,3 +54,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
 - [Lab 18 — Application Software Security](Lab_18_Application_Software_Security.md)  
   What I learned: how to identify common web application vulnerabilities like SQL Injection and Cross-Site Scripting (XSS) using DVWA, and how to use static analysis tools like ESLint to detect insecure coding patterns while applying secure coding practices such as parameterized queries and input sanitization.
+
+- [Lab 19 — Incident Response & Management](Lab_19_Incident_Response_Management.md)  
+  What I learned: how incident response teams operate, including key roles like incident lead and communication lead, and how to follow the core incident handling lifecycle (detection, containment, eradication, and recovery) using tools like Suricata and ClamAV in a malware infection scenario.
