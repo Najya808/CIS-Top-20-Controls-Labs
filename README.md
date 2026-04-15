@@ -57,3 +57,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
 - [Lab 19 — Incident Response & Management](Lab_19_Incident_Response_Management.md)  
   What I learned: how incident response teams operate, including key roles like incident lead and communication lead, and how to follow the core incident handling lifecycle (detection, containment, eradication, and recovery) using tools like Suricata and ClamAV in a malware infection scenario.
+
+- [Lab 20 — Penetration Testing & Red Team Exercises](Lab_20_Penetration_Testing_Red_Team_Exercises.md)  
+  What I learned: how penetration testers use tools like Nmap and Metasploit to perform network reconnaissance, identify open ports and vulnerable services, and safely simulate exploitation of misconfigurations to understand attack paths and improve system security defenses.
