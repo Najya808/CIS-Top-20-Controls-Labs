@@ -48,3 +48,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
 - [Lab 16 — Account Monitoring & Control](Lab_16_Account_Monitoring_Control.md)  
   What I learned: how to audit user accounts, disable or remove unnecessary users, and implement session timeout and lockout policies to prevent unauthorized access.
+
+- [Lab 17 — Security Awareness Training](Lab_17_Security_Awareness_Training.md)  
+  What I learned: how to create security awareness training, test user knowledge with quizzes, and identify human security gaps to reduce risks like phishing and social engineering.
