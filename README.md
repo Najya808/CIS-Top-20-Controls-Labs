@@ -39,3 +39,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
 - [Lab 13 — Data Protection Basics](Lab_13_Data_Protection_Basics.md)  
   What I learned: how to encrypt files with AES, enable secure communications using HTTPS and SSH, and validate encryption effectiveness to protect data confidentiality and integrity.
+
+- [Lab 14 — Controlled Access Based on Need to Know](Lab_14_Controlled_Access.md)  
+  What I learned: how to enforce least privilege by assigning directory permissions to specific users/groups and validating access through authorized and unauthorized testing.
