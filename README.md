@@ -45,3 +45,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
 - [Lab 15 — Wireless Access Control](Lab_15_Wireless_Access_Control.md)  
   What I learned: how to secure a wireless network using WPA2/WPA3 encryption, disable WPS, and verify that only authorized users can connect.
+
+- [Lab 16 — Account Monitoring & Control](Lab_16_Account_Monitoring_Control.md)  
+  What I learned: how to audit user accounts, disable or remove unnecessary users, and implement session timeout and lockout policies to prevent unauthorized access.
