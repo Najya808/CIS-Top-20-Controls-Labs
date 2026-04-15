@@ -36,3 +36,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
 - [Lab 12 — Boundary Defense](Lab_12_Boundary_Defense.md)  
   What I learned: how to document network boundaries, configure firewall rules using UFW, and test defenses by simulating unauthorized access attempts.
+
+- [Lab 13 — Data Protection Basics](Lab_13_Data_Protection_Basics.md)  
+  What I learned: how to encrypt files with AES, enable secure communications using HTTPS and SSH, and validate encryption effectiveness to protect data confidentiality and integrity.
