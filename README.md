@@ -51,3 +51,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
 - [Lab 17 — Security Awareness Training](Lab_17_Security_Awareness_Training.md)  
   What I learned: how to create security awareness training, test user knowledge with quizzes, and identify human security gaps to reduce risks like phishing and social engineering.
+
+- [Lab 18 — Application Software Security](Lab_18_Application_Software_Security.md)  
+  What I learned: how to identify common web application vulnerabilities like SQL Injection and Cross-Site Scripting (XSS) using DVWA, and how to use static analysis tools like ESLint to detect insecure coding patterns while applying secure coding practices such as parameterized queries and input sanitization.
