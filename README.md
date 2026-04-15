@@ -42,3 +42,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
 - [Lab 14 — Controlled Access Based on Need to Know](Lab_14_Controlled_Access.md)  
   What I learned: how to enforce least privilege by assigning directory permissions to specific users/groups and validating access through authorized and unauthorized testing.
+
+- [Lab 15 — Wireless Access Control](Lab_15_Wireless_Access_Control.md)  
+  What I learned: how to secure a wireless network using WPA2/WPA3 encryption, disable WPS, and verify that only authorized users can connect.
