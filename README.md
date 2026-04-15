@@ -60,3 +60,6 @@ A hands-on implementation of the CIS Critical Security Controls framework.  This
 
 - [Lab 20 — Penetration Testing & Red Team Exercises](Lab_20_Penetration_Testing_Red_Team_Exercises.md)  
   What I learned: how penetration testers use tools like Nmap and Metasploit to perform network reconnaissance, identify open ports and vulnerable services, and safely simulate exploitation of misconfigurations to understand attack paths and improve system security defenses.
+
+- [Lab 21 — Patch Management Basics](Lab_21_Patch_Management_Basics.md)  
+  What I learned: how patch management works across Windows and Linux systems, how to check for available updates using Windows Update, apt, and yum, and how to apply, document, and verify system updates while ensuring system stability after reboot.
